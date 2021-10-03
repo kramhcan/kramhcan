@@ -1,8 +1,8 @@
 ### Hey its you
 
-#### I am honestly lost in the sauce
+#### I'm lost in the sauce
 
-Currently just looking around trying to learn new stuff, nothing fancy
+I'm currently just looking around trying to learn new stuff, nothing fancy
 
 
 <!--
