@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey its you
+
+#### I am honestly lost in the sauce
+
+Currently just looking around trying to learn new stuff, nothing fancy
+
 
 <!--
 **m-vv0x/m-vv0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
