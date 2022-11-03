@@ -1,6 +1,6 @@
-### Hi
+### Hello There
 
-#### I'm lost in the sauce
+#### General Kenobi
 
 Currently a student at Asia Pacific University of Technology & Innovation.  
 Graduated with a Diploma in Information & Communication Technology.  
