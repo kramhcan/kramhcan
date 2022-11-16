@@ -1,7 +1,5 @@
 ### Hello There
 
-#### General Kenobi
-
 (He/Him)
 
 Currently a student at Asia Pacific University of Technology & Innovation.  
